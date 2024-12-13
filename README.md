@@ -23,6 +23,9 @@ This repository contains the findings and analysis from a digital forensics inve
 - **VirusTotal**: For malware identification and validation.
 - **Autopsy**: For disk image analysis and timeline reconstruction.
 - **Ewftools**: For mounting the image.
+- **Log2timeline**: For creating supertimeline.
+- **Regripper**: For forensic artifacts with the use of plugins.
+- **Registry Editor**: For manual viewing and editing of Windows Registry settings and configurations.
 
 ## Investigation Questions
 1. What process was malicious?  
