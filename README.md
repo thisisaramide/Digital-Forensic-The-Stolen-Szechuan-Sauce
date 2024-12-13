@@ -18,7 +18,7 @@ This repository contains the findings and analysis from a digital forensics inve
 
 ## Tools Used
 - **Wireshark**: For network traffic analysis and artifact extraction.
-- **Volatility**: For memory analysis (e.g., `pstree`, `malfind`, and `netscan` plugins).
+- **Volatility**: For memory analysis 
 - **Registry Explorer**: To investigate loaded hives and services.
 - **VirusTotal**: For malware identification and validation.
 - **Autopsy**: For disk image analysis and timeline reconstruction.
