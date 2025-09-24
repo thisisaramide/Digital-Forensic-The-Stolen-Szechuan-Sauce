@@ -46,7 +46,8 @@ This repository contains the findings and analysis from a digital forensics inve
 16. Did the attacker steal or access any other sensitive files? If so, what times?  
 
 ## Forensic Report
-[Forensic Reports (PDF)](./DIGITAL%20FORENSIC%20REPORT.pdf?raw=1)
+[Forensic Report)](./DIGITAL_FORENSIC_REPORT.pdf?raw=1)
+
 
 
 ## Recommendations
