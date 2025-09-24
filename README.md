@@ -46,7 +46,7 @@ This repository contains the findings and analysis from a digital forensics inve
 16. Did the attacker steal or access any other sensitive files? If so, what times?  
 
 ## Forensic Report
-[Forensic Report](https://github.com/thisisaramide/Digital-Forensic-The-Stolen-Szechuan-Sauce/blob/main/DIGITAL%20FORENSIC%20REPORT.pdf)
+[Forensic Report (PDF)](https://raw.githubusercontent.com/thisisaramide/Digital-Forensic-The-Stolen-Szechuan-Sauce/main/DIGITAL%20FORENSIC%20REPORT.pdf)
 
 ## Recommendations
 - Restrict remote desktop access to internal connections only and enforce VPN use for remote access.
