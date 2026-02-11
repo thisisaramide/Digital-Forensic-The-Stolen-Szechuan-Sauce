@@ -45,7 +45,7 @@ This repository contains the findings and analysis from a digital forensics inve
 15. Did the attacker steal the Szechuan sauce? If so, what time?  
 16. Did the attacker steal or access any other sensitive files? If so, what times?  
 
-[Forensic Report (PDF)](https://github.com/thisisaramide/Digital-Forensic-The-Stolen-Szechuan-Sauce/latest/download/v1.0.0/DIGITAL_FORENSIC_REPORT.pdf)
+[Forensic Report (PDF)](https://github.com/thisisaramide/Digital-Forensic-The-Stolen-Szechuan-Sauce/raw/main/DIGITAL_FORENSIC_REPORT.pdf)
 
 
 
