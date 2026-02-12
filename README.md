@@ -44,7 +44,9 @@ This repository contains the findings and analysis from a digital forensics inve
 14. What architecture changes should be made immediately?  
 15. Did the attacker steal the Szechuan sauce? If so, what time?  
 16. Did the attacker steal or access any other sensitive files? If so, what times?  
-<img width="550" height="152" alt="image" src="https://github.com/user-attachments/assets/2797a68c-75b0-4206-8321-45e6b442b1a5" />
+
+
+[Read the Full Forensic Report on Medium](https://medium.com/@jimoharamide02/digital-forensics-investigation-the-stolen-szechuan-sauce-9b55c39572a7)
 
 
 
